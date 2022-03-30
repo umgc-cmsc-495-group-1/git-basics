@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Test Branch</h1>
       <p>New paragraph</p>
+      <p>Dylans Edits</p>
     </div>
   );
 }
